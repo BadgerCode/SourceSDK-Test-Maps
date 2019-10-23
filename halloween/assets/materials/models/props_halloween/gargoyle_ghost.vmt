@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\props_halloween/gargoyle_ghost"
+	"$selfillum" 1
+	"$additive" 1
+	"$phong" "1"
+	"$phongexponent" "50"
+	"$phongboost" ".1"	
+	"$lightwarptexture" "models\weapons\c_items/c_ambassador_lightwarp"
+	"$phongfresnelranges"	"[8 8 100]"
+	"$halflambert" "1"
+	"$phongtint"  "[0 1 .1]"
+	
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "10"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "2.5"										// Boost for ambient cube component of rim lighting
+
+}
