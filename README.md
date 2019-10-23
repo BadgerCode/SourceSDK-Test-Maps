@@ -3,17 +3,49 @@ Made using hammer.
 
 Just some maps helping me to learn hammer.
 
+# Map Names
+* First maps
+    * [First](#first) - [map files](/maps/first-maps/001-first/)
+    * [Second](#second) - [map files](/maps/first-maps/002-second/)
+    * [Third](#third) - [map files](/maps/first-maps/003-third/)
+* Basic maps
+    * [Lighting](#lighting) - [map files](/maps/basics/lighting/)
+    * Light beams - [map files](/maps/basics/light-beams/)
+    * Water - [map files](/maps/basics/water/)
+        * Lots of different water textures
+        * The water in this map won't render properly, due to there being a mixture of different water types
+    * 3D Skybox test - [map files](/maps/basics/skybox/)
+    * Optimisation - [map files](/maps/basics/optimisation/)
+        * Area portals
+        * How the skybox hides parts of your map
+        * How visleafs split up the map
+* Entity test maps
+    * Some basic map logic - [map files](/maps/entities/logic/)
+        * Using buttons, triggers, lights
+    * Non-breakable props - [map files](/maps/entities/nonbreakable-props/)
+    * Double doors - [map files](/maps/entities/double-doors/)
+    * Moving Cars - [map files](/maps/entities/moving-cars/)
+    * Trapdoor - [map files](/maps/entities/trapdoor/)
+        * A basic trapdoor
+        * A trapdoor which only works for ragdolls
+* Other maps
+    * Fothergill window style - [map files](/maps/test/styles/)
+    * [Halloween map features](#halloween) - [map files](/maps/test/halloween/)
+
+
 
 # Map Details
 
 
 ## First
+[Map files](/maps/first-maps/001-first/)<br>
 * Skybox
 * Limited intended playable area
 * Cubes
 ![Some blocks](/Screenshots/first.jpg)
 
 ## Second
+[Map files](/maps/first-maps/002-second/)<br>
 * Skybox
 * Basic level design
 * Props
@@ -25,6 +57,7 @@ Just some maps helping me to learn hammer.
 ![Water, lamps, props and walls](/Screenshots/second.jpg)
 
 ## Third
+[Map files](/maps/first-maps/003-third/)<br>
 * An actual map
 * Enterable buildings
 * Evening lighting
@@ -34,13 +67,23 @@ Just some maps helping me to learn hammer.
 * Improved interations with details objects (e.g. door frames, stair railings)
 * Alternative paths through map
 ![Two houses](/Screenshots/third.jpg)
-![Alleyway](/Screenshots/third-2.jpg)
+![Alleyway](/Screenshots/third-2.jpg)<br>
+[Map files](/maps/first-maps/003-third/)<br>
 
-## Double doors
-* What you'd expect
+<br><br><br><br>
+
+
+## Lighting
+[Map files](/maps/basics/lighting/)<br>
+![lighting](/Screenshots/lighting.jpg)<br>
+
+
+
+<br><br><br><br>
 
 
 ## Halloween
+[Map files](/maps/test/halloween/)<br>
 Tests a load of halloween map features
 
 * Skull objective- collect skulls to unlock secrets
@@ -53,4 +96,5 @@ Tests a load of halloween map features
     * Skybox Grimm night- https://gamebanana.com/textures/1776
 * A basic jump scare
 
-![Two houses](/Screenshots/halloween.jpg)
+![Halloween](/Screenshots/halloween.jpg)<br>
+[Map files](/maps/test/halloween/)<br>
