@@ -19,6 +19,12 @@ Just some maps helping me to learn hammer.
         * Area portals
         * How the skybox hides parts of your map
         * How visleafs split up the map
+    * Soundscapes [map files](/maps/basics/soundscapes/)
+        * Tests some indoor and outdoor soundscapes
+        * Tests transitioning between soundscapes
+        * Ingame, enter the following console commands to see what's happening
+            * `developer 1`
+            * `soundscape_debug 1`
 * Entity test maps
     * Some basic map logic - [map files](/maps/entities/logic/)
         * Using buttons, triggers, lights
