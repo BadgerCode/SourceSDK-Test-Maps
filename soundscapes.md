@@ -21,25 +21,32 @@
 
 
 # Good
-* construct.outside
-    * Good for: outside maps with birds
-    * Good mixture of birds, wind
-* construct.inside
-    * Good for: Generic inside background hum
-* construct.lake
-    * Good for: outside maps near water
-* construct.garage
-    * Good for: inside areas of a map which are open to the outside
-* cabin_outdoor
-    * Good for: Maps in remote locations like forests, swamps
-    * Constant outdoor wind and birds
-    * Might be a bit annoying as it is constant sound
-* canals_canal_water
-    * Good for: Maps right next to the ocean
-* general.concrete_quiet
-    * Good for: underground carpark
-* eli_02_scrapyard_1
-    * Good for: a cave near the ocean. creepy maps
+* Inside
+    * construct.inside
+        * Good for: Generic inside background hum
+    * general.concrete_quiet
+        * Good for: underground carpark
+    * eli_02_scrapyard_1
+        * Good for: a cave near the ocean. creepy maps
+* Inside/outside
+    * construct.garage
+        * Good for: inside areas of a map which are open to the outside
+* Outside
+    * construct.outside
+        * Good for: outside maps with birds
+        * Good mixture of birds, wind
+    * construct.lake
+        * Good for: outside maps near water
+    * d1_trainstation.TerminalSquare 
+        * Good for: Active town/city main square
+    * coast.util_windgusts
+        * Good for: Open, windy areas outside
+    * cabin_outdoor
+        * Good for: Maps in remote locations like forests, swamps
+        * Constant outdoor wind and birds
+        * Might be a bit annoying as it is constant sound
+    * canals_canal_water
+        * Good for: Maps right next to the ocean
 
 
 # Meh
