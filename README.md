@@ -34,6 +34,7 @@ Just some maps helping me to learn hammer.
     * Trapdoor - [map files](/maps/entities/trapdoor/)
         * A basic trapdoor
         * A trapdoor which only works for ragdolls
+    * Ropes & hanging things from ropes - [map files](/maps/entities/rope/)
 * Other maps
     * Fothergill window style - [map files](/maps/test/styles/)
     * [Halloween map features](#halloween) - [map files](/maps/test/halloween/)
