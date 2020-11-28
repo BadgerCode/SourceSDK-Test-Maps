@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "8359"
-	"mapversion" "255"
+	"editorbuild" "8506"
+	"mapversion" "261"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "255"
+	"mapversion" "261"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -7883,6 +7883,7 @@ entity
 	"fogdir" "1 0 0"
 	"fogenable" "1"
 	"fogend" "500.0"
+	"fogmaxdensity" "1"
 	"fogstart" "0"
 	"scale" "16"
 	"use_angles" "0"
@@ -8471,6 +8472,70 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 14000]"
+	}
+}
+entity
+{
+	"id" "7424"
+	"classname" "env_soundscape"
+	"radius" "617"
+	"soundscape" "GMod.Halloween.Outside"
+	"StartDisabled" "0"
+	"origin" "464 433.432 -720"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "7677"
+	"classname" "env_soundscape"
+	"radius" "617"
+	"soundscape" "GMod.Halloween.Inside"
+	"StartDisabled" "0"
+	"origin" "837.951 479.997 -832"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "7721"
+	"classname" "env_soundscape"
+	"radius" "617"
+	"soundscape" "GMod.Halloween.Hell"
+	"StartDisabled" "0"
+	"origin" "815.572 621.84 -712"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "7765"
+	"classname" "env_soundscape"
+	"radius" "617"
+	"soundscape" "GMod.Halloween.Underworld"
+	"StartDisabled" "0"
+	"origin" "840 224 -712"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
 	}
 }
 cameras
