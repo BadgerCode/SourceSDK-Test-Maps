@@ -10,6 +10,7 @@ Just some maps helping me to learn hammer.
 * [Custom materials](/custom-materials.md)
 * [Hammer/Source SDK mapping tutorials](https://www.youtube.com/playlist?list=PLfwtcDG7LpxF7-uH_P9La76dgCMC_lfk3)
 * [TopHATTWaffle mapping tutorials](https://www.tophattwaffle.com/tutorials/)
+* [Setting up maps for NCPs](https://www.youtube.com/watch?v=r3jgAIsbySg)
 
 
 <br>
