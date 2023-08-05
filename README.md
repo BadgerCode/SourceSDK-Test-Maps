@@ -10,7 +10,13 @@ Just some maps helping me to learn hammer.
 * [Custom materials](/custom-materials.md)
 * [Hammer/Source SDK mapping tutorials](https://www.youtube.com/playlist?list=PLfwtcDG7LpxF7-uH_P9La76dgCMC_lfk3)
 * [TopHATTWaffle mapping tutorials](https://www.tophattwaffle.com/tutorials/)
-* [Setting up maps for NCPs](https://www.youtube.com/watch?v=r3jgAIsbySg)
+* [Setting up maps for NCPs](https://www.youtube.com/watch?v=r3jgAIsbySg) (nodegraph & info nodes)
+* [Setting up maps for bots](https://www.youtube.com/watch?v=hShf-Kl7EHY) (navmesh)
+    * You might need to do this first
+        * Open the map
+        * Point your crosshair at a walkable surface
+        * Type nav_mark_walkable
+        * Then run nav_generate (this may take some time and freeze your game until it's done)
 
 
 <br>
